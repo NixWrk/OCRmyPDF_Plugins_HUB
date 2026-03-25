@@ -12,7 +12,8 @@ It includes both original snapshots and `_NIX` working copies.
 5. `ocrmypdf-paddleocr-master_NIX`
 6. `Ocrmypdf+surya_NIX`
 7. `ocrmypdf-surya-main`
-8. `OCRmypdf_plugins/` (nested snapshot bundle)
+8. `ocrmypdf-chandra-main`
+9. `OCRmypdf_plugins/` (nested snapshot bundle)
 
 ## Upstream / original references
 
@@ -22,7 +23,13 @@ It includes both original snapshots and `_NIX` working copies.
 - `ocrmypdf-doctr-master_NIX` -> https://github.com/mindee/doctr
 - `ocrmypdf-paddleocr-master_NIX` -> https://github.com/yourusername/ocrmypdf-paddleocr
 - `Ocrmypdf+surya_NIX` -> local bridge sketch based on OCRmyPDF + Surya (`https://github.com/ocrmypdf/OCRmyPDF`, `https://github.com/VikParuchuri/surya`)
-- `ocrmypdf-surya-main` -> maintained plugin: https://github.com/NixWrk/Surya_OCRmyPDF_Plugin
+- `ocrmypdf-surya-main` -> maintained plugin snapshot from https://github.com/NixWrk/Surya_OCRmyPDF_Plugin
+- `ocrmypdf-chandra-main` -> maintained plugin snapshot from https://github.com/NixWrk/Chandra_OCRmyPDF_Plugin
+
+## Standalone plugin repositories
+
+- Surya plugin: https://github.com/NixWrk/Surya_OCRmyPDF_Plugin
+- Chandra plugin: https://github.com/NixWrk/Chandra_OCRmyPDF_Plugin
 
 ## Notes
 
