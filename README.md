@@ -1,6 +1,6 @@
 ﻿# OCRmyPDF Plugins HUB
 
-This repository stores the plugin bundles used in the `img_2_pdf` OCR benchmark workspace.
+This repository stores the plugin bundles used in the `img_2_pdf` https://github.com/NixWrk/img_2_pdf OCR benchmark workspace.
 It includes both original snapshots and `_NIX` working copies.
 
 ## Included plugin folders
