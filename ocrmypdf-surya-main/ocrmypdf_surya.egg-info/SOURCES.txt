@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+ocrmypdf_surya/__init__.py
+ocrmypdf_surya/hocr.py
+ocrmypdf_surya/plugin.py
+ocrmypdf_surya.egg-info/PKG-INFO
+ocrmypdf_surya.egg-info/SOURCES.txt
+ocrmypdf_surya.egg-info/dependency_links.txt
+ocrmypdf_surya.egg-info/requires.txt
+ocrmypdf_surya.egg-info/top_level.txt
